@@ -1,0 +1,1 @@
+intunewinapputil.exe -c .\SophosInterceptX -s SophosSetup.exe -o .\ -q
